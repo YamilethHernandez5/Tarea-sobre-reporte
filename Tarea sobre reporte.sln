@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea sobre reporte", "Tarea sobre reporte\Tarea sobre reporte.csproj", "{8EC0B1A4-0B74-4EDF-A4B5-A1CA3503FEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC0B1A4-0B74-4EDF-A4B5-A1CA3503FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC0B1A4-0B74-4EDF-A4B5-A1CA3503FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC0B1A4-0B74-4EDF-A4B5-A1CA3503FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC0B1A4-0B74-4EDF-A4B5-A1CA3503FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9BB8F00-4E2B-4E4D-8F57-6ACA062A34A8}
+	EndGlobalSection
+EndGlobal
